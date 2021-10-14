@@ -1,2 +1,2 @@
-# projetoDL2021
+# Projeto DL- 2021
 Repositório para trabalho final da disciplina de Deep Learning 2021
