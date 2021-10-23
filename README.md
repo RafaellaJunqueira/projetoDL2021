@@ -7,3 +7,12 @@ Repositório para trabalho final da disciplina de Deep Learning 2021. O projeto 
 | Rafaella Junqueira | 16/0142628 |
 | Iuri Severo | 17/0145514 |
 | João Victor Correia | 19/0089792 |
+
+### Dataset
+
+A imagens utilizadas para treinamento das Inteligências Artificais foram adquiridas das seguintes fontes:
+* https://github.com/NVlabs/ffhq-dataset
+* [Ebner, N., Riediger, M., & Lindenberger, U. (2010). FACES—A database of facial expressions in young, middle-aged, and older women and men: Development and validation. Behavior research Methods, 42, 351-362. doi:10.3758/BRM.42.1.351](http://hdl.handle.net/11858/00-001M-0000-0013-3A21-0)
+
+### Apresentação realizada
+[![Slides de apresentacao](https://user-images.githubusercontent.com/43728276/138556910-e7533e96-4059-45f3-8457-8134a94adb36.png)](https://docs.google.com/presentation/d/1HnIknSMhSRsGSx75BQ1MVFpz1JThKH39MdJ2troMQcU/edit?usp=sharing)
