@@ -16,3 +16,21 @@ A imagens utilizadas para treinamento das Inteligências Artificais foram adquir
 
 ### Apresentação realizada
 [![Slides de apresentacao](https://user-images.githubusercontent.com/43728276/138556910-e7533e96-4059-45f3-8457-8134a94adb36.png)](https://docs.google.com/presentation/d/1HnIknSMhSRsGSx75BQ1MVFpz1JThKH39MdJ2troMQcU/edit?usp=sharing)
+
+
+### Como rodar o projeto
+
+1. Clone o repositório
+ ```
+git clone <url do repositório>
+ ```
+
+2. Quando estiver dentro do diretório projetoDL2021, execute o jupyter e uma janela no navegador abrirá
+
+```
+jupyter notebook
+```
+
+3. Para executar o projeto feito utilizando CNN manual, entre no notebook intitulado convolutional_neural_network-checkpoint.ipynb e run all.
+
+4. Para executar o projeto feito em FastAI, entre no notebook fastAI_cnn-checkpoint.ipynb e run all
