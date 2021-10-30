@@ -1,6 +1,15 @@
 # Projeto Deep Learning 2021 - Grupo Stonks
 Repositório para trabalho final da disciplina de Deep Learning 2021. O projeto consiste em realizar a análise de sentimentos (raiva, alegria, tristeza ou medo) utilizando redes neurais convolucionais (CNN). A mesma análise é realizada passo a passo via CNN manual e também utilizando FastAI para que seja possível comparar os resultados, suas matrizes de confusão e acurácia.
 
+### Problema
+A Interação Homem-Computador (IHC) é o campo de conhecimento que concentra estudos de formas de evoluir e aprimorar o relacionamento entre o homem e a máquina, relacionando a ciência da computação, arte, design, linguística, semiótica, sociologia, psicologia e ergonomia para deixar interfaces mais amigáveis e tornar as
+interações mais claras e ágeis,por exemplo. 
+
+Graças aos estudos realizados na IHC e suas descobertas, pode-se hoje executar comandos em computadores, celulares, vídeo games, televisores, entre outros, seja por comando de voz, em que o usuário dita uma instrução e o dispositivo a executa, seja por gesto, em que o usuário pode movimentar partes de seu corpo como
+braços, dedos ou olhos e o dispositivo reconhece este movimento como uma instrução para executar o comando.
+
+Para contribuir com o reconhecimento de emoções, este trabalho tenta criar um modelo de identificação de raiva, medo, felicidade e tristeza através de redes convolucionais neurais.
+
 ### Integrantes
 | Nome | Matrícula |
 |:------------ |---|
