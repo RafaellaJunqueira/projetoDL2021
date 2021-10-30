@@ -25,12 +25,16 @@ A imagens utilizadas para treinamento das Inteligências Artificais foram adquir
 git clone <url do repositório>
  ```
 
-2. Quando estiver dentro do diretório projetoDL2021, execute o jupyter e uma janela no navegador abrirá
+2. Instalar dependências. Dentro do diretório projetoDL2021, execute:
+```
+pip3 install -r requirements.txt
+```
 
+3. Executar projeto. Dentro do diretório projetoDL2021, execute o jupyter e uma janela no navegador abrirá
 ```
 jupyter notebook
 ```
 
-3. Para executar o projeto feito utilizando CNN manual, entre no notebook intitulado convolutional_neural_network-checkpoint.ipynb e run all.
+4. Para executar o projeto feito utilizando CNN manual, entre no notebook intitulado convolutional_neural_network-checkpoint.ipynb e run all.
 
-4. Para executar o projeto feito em FastAI, entre no notebook fastAI_cnn-checkpoint.ipynb e run all
+5. Para executar o projeto feito em FastAI, entre no notebook fastAI_cnn-checkpoint.ipynb e run all
