@@ -47,3 +47,6 @@ jupyter notebook
 4. Para executar o projeto feito utilizando CNN manual, entre no notebook intitulado convolutional_neural_network-checkpoint.ipynb e run all.
 
 5. Para executar o projeto feito em FastAI, entre no notebook fastAI_cnn-checkpoint.ipynb e run all
+
+### Referência teórica extra
+https://multivix.edu.br/wp-content/uploads/2018/08/estudo-da-identificacao-de-emocoes-atraves-da-inteligencia-artificial.pdf
